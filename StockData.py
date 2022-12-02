@@ -58,3 +58,4 @@ class StockData:
         self.stockHigh = self.marketData['High']
         self.stockLow = self.marketData['Low']
         self.stockVolume = self.marketData['Volume']
+        #self.financials = self.stockInfo.financials
